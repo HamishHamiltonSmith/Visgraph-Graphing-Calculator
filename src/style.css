@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+#canv{
+  position: absolute;
+  left:300px;
+  top:0px;
+}
+
+input {
+  width: 280px;
+  height: 100px;
+  border-radius:12px;
+  font-size:30px;
+}
+
+#add{
+  position: absolute;
+  top: 120px;
+  width: 50px;
+  height: 50px;
+  border-radius:12px;
+}
