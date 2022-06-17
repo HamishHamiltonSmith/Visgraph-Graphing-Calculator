@@ -12,4 +12,4 @@ Here are some examples on what vigraph can make:
 
 ![Image](https://github.com/HamishHamiltonSmith/Visgraph-Graphing-Calculator/blob/main/examples/Screenshot%202022-06-17%206.47.06%20PM.png)
 
-![Image](https://github.com/HamishHamiltonSmith/Visgraph-Graphing-Calculator/blob/main/examples/Screenshot%202022-06-17%206.47.06%20PM.png)
+![Image](https://github.com/HamishHamiltonSmith/Visgraph-Graphing-Calculator/blob/main/examples/Screenshot%202022-06-17%206.47.25%20PM.png)
