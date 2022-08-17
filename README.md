@@ -10,4 +10,14 @@ Vigraph should run on most web browsers as it is vanilla js so to install just c
 
 Here are some examples on what vigraph can make:
 
+![Image](https://github.com/HamishHamiltonSmith/Visgraph-Graphing-Calculator/blob/main/examples/Screenshot%202022-08-17%2019.22.25.png)
 
+This is a taylor series of a sine wave
+
+![Image2](https://github.com/HamishHamiltonSmith/Visgraph-Graphing-Calculator/blob/main/examples/Screenshot%202022-08-17%2019.23.41.png)
+
+A basic quadratic
+
+![Image3](https://github.com/HamishHamiltonSmith/Visgraph-Graphing-Calculator/blob/main/examples/Screenshot%202022-08-17%2019.24.54.png)
+
+A gradient descent algorithm running on a very fancy equation I just discovered
