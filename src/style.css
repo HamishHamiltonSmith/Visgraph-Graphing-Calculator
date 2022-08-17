@@ -2,6 +2,8 @@ html, body {
   height: 100%;
   width: 100%;
   overflow: hidden;
+  margin:0;
+  padding:0;
 }
 
 #canv{
@@ -10,11 +12,22 @@ html, body {
   top:0px;
 }
 
+#panel {
+  margin:0;
+  padding:0;
+  display:grid;
+  background-color:#a9b9eb;
+  width:300px;
+}
+
 input {
+  background:#406ef7;
+  margin:auto;
   width: 280px;
   height: 100px;
   border-radius:12px;
   font-size:30px;
+  margin-top:10px;
 }
 
 #add{
@@ -23,4 +36,17 @@ input {
   width: 50px;
   height: 50px;
   border-radius:12px;
+}
+
+.option {
+  width:200px;
+  height:36px;
+  margin-top:3px;
+  margin:auto;
+  min-width:70px;
+  border:none;
+  color:black;
+  border-radius:7px;
+  background-color:#406ef7;
+  border:3px #89a2f0 solid;
 }
